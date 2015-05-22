@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1428593660 source:d:\dados\arquivos\desktop\rmachine\lib\buffer.c
+	"buffer.h"
+
+1428593591 d:\dados\arquivos\desktop\rmachine\lib\buffer.h
+	"libs.h"
+
+1428679774 d:\dados\arquivos\desktop\rmachine\lib\libs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"structs.h"
+
+1428598917 d:\dados\arquivos\desktop\rmachine\lib\structs.h
+
+1428843857 source:d:\dados\arquivos\desktop\rmachine\lib\instruction.c
+	"instruction.h"
+
+1428609574 d:\dados\arquivos\desktop\rmachine\lib\instruction.h
+	"libs.h"
+
+1428843941 source:d:\dados\arquivos\desktop\rmachine\src\main.c
+	"../lib/libs.h"
+
